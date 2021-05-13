@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "dependencies": {
     "express": "^4.17.1",
+    "fast-csv": "^4.3.6",
     "mysql": "^2.18.1",
-    "sql": "^0.78.0"
+    "sql": "^0.78.0",
+    "type": "module"
   }
 }
